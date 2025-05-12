@@ -30,5 +30,3 @@ This project uses a structured SQL analysis approach to investigate various fact
 - Benched employees are more likely to leave.
 - City and payment tier combined strongly influence exit rates.
 - Female employees are fewer but show higher retention.
-
-![Dashboard Preview](images/employee_attrition_dashboard.png)
